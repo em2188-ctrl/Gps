@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BODA"
+rootProject.name = "GPS"
 include(":app")
  
